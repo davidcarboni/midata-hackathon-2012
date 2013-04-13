@@ -4,6 +4,8 @@ http://www.theodi.org/events/midata-hackathon-2012
 
 These are the generated files for the "Data Suckathon" project. There are two visualisations of this dataset (http://d3js.org/)
 
+http://davidcarboni.github.io/midata-hackathon-2012/
+
 The dataset is the headings (or keys) found in several thousand .csv files downloaded from http://data.gov.uk/ by crawling the site via the CKAN API (http://data.gov.uk/data/api).
 
 The visualisations are:
